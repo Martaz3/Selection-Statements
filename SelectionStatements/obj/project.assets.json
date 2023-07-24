@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martaze\\Desktop\\Repos\\SelectionStatements\\SelectionStatements\\SelectionStatements.csproj",
+      "projectUniqueName": "C:\\Users\\Martaze\\Desktop\\Repos\\SelectionStatements\\Selection-Statements\\SelectionStatements\\SelectionStatements.csproj",
       "projectName": "SelectionStatements",
-      "projectPath": "C:\\Users\\Martaze\\Desktop\\Repos\\SelectionStatements\\SelectionStatements\\SelectionStatements.csproj",
+      "projectPath": "C:\\Users\\Martaze\\Desktop\\Repos\\SelectionStatements\\Selection-Statements\\SelectionStatements\\SelectionStatements.csproj",
       "packagesPath": "C:\\Users\\Martaze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martaze\\Desktop\\Repos\\SelectionStatements\\SelectionStatements\\obj\\",
+      "outputPath": "C:\\Users\\Martaze\\Desktop\\Repos\\SelectionStatements\\Selection-Statements\\SelectionStatements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Martaze\\AppData\\Roaming\\NuGet\\NuGet.Config",
